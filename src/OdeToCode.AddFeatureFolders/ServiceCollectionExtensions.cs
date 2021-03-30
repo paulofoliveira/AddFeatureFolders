@@ -1,5 +1,5 @@
-﻿using System;
-using OdeToCode.AddFeatureFolders;
+﻿using OdeToCode.AddFeatureFolders;
+using System;
 
 // ReSharper disable once CheckNamespace
 

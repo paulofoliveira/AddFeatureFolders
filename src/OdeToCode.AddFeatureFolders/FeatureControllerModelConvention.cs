@@ -1,7 +1,7 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.ApplicationModels;
+using System;
 using System.IO;
 using System.Linq;
-using Microsoft.AspNetCore.Mvc.ApplicationModels;
 
 namespace OdeToCode.AddFeatureFolders
 {
